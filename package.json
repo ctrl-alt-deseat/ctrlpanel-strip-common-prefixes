@@ -1,0 +1,9 @@
+{
+  "name": "@ctrlpanel/strip-common-prefixes",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "repository": "ctrl-alt-deseat/ctrlpanel-strip-common-prefixes",
+  "scripts": {
+    "test": "standard && node test"
+  }
+}
